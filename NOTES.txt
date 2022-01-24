@@ -1,0 +1,5 @@
+The following files are required for Heroku
+ - runtime.txt
+ - Procfile
+ - requirements.txt
+ - gitignore.txt
